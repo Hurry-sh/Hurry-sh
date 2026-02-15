@@ -1,5 +1,5 @@
 # 💫 About Me
-Hey! My name is Harish K and I am a student of PES University Bengaluru. <br><br>I am a developer and my field of interest is in Machine Learning and Data Science.<br><br>My expertise extends to areas like Data Structures, Algorithm Analysis, Computer Architecture, Networks, Machine Learning, Data Analytics, Generative AI, Heterogenous Parallelism and many more.
+Hey! My name is Harish K and I am a Computer Science Engineer. <br><br>I am a developer and my field of interest is in Machine Learning, Data Engineering and Data Science.<br><br>My expertise extends to areas like Data Structures, Algorithm Analysis, Computer Architecture, Networks, Machine Learning, Data Analytics, Generative AI, Heterogenous Parallelism and many more.
 
 
 # 💻 Tech Stack
